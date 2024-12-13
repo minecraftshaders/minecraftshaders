@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+**Here are some ideas to get you started:**
+
+<h3><a href="https://gamescentral.net/">CLICK TO PLAY BITLIFE</a> </BR> </BR></h3>
+
 <!--
 **minecraftshaders/minecraftshaders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
